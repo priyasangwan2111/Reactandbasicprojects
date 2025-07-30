@@ -1,0 +1,20 @@
+// //react is an javascript library used for
+// interactive and dynamic user interfaces
+
+//       FRAGMENTS
+//       components
+//       paasing data as  props
+//       container
+//       const container=(props)=>{
+//         return<div className={Styles.container}>{props.children}</div>
+//       }
+//       handling Event
+//       write onclick
+//       uses syntethic events ,not direct browser events
+//       event handler can be functions or arrow functions
+//       onchange for controlled from inputs
+
+//passing functions via props
+//.pass dynmic behaviour between componenets
+//enables upward communication from child to parent
+//paarent defines a function,child invokes
